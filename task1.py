@@ -1,6 +1,5 @@
 import pandas as pd
 
-df = pd.DataFrame()
 df = pd.read_csv("goibibo_flights_data.csv")
 
 print("Первые 5 строк")
